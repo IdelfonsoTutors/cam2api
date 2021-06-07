@@ -12,7 +12,7 @@ Usage:
 
 2.```pkg update && pkg install git```
 
-3.```git clone https://github.com/FrosT2k5/cam2api.git```
+3.```git clone https://github.com/IdelfonsoTutors/cam2api.git```
 
 4.```cd cam2api```
 
